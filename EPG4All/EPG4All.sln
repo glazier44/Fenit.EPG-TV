@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EPG4All", "EPG4All.csproj", "{2EAEE67C-8686-4DF3-9C0F-B4D5355F0044}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2EAEE67C-8686-4DF3-9C0F-B4D5355F0044}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2EAEE67C-8686-4DF3-9C0F-B4D5355F0044}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2EAEE67C-8686-4DF3-9C0F-B4D5355F0044}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2EAEE67C-8686-4DF3-9C0F-B4D5355F0044}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6AB6C0D7-B237-4640-9283-DE09A8F8C51B}
+	EndGlobalSection
+EndGlobal
